@@ -1,0 +1,59 @@
+.div_cal{
+    background-color: royalblue;
+    height: 900px;
+    width: 100%;
+}
+#input{
+    height: 50px;
+    width: 30%;
+    margin: 82px 0px 0px 434px;
+    font-size: 70px;
+    color: blue;
+}
+#input1{
+    height: 50px;
+    width: 30%;
+    margin: 23px 0px 0px 434px;
+    font-size: 70px;
+    color: blue;
+}
+#res{
+    
+    font-size: 140px;
+    height: 256px;
+    width: 30%;
+    margin: 22px 0px 0px 436px;
+    background-color: gold;
+}
+.kolchi{
+    background-color: black;
+    height: 80px;
+    width: 7%;
+    margin: 22px 0px 0px 429px;
+    font-size: 70px;
+    color: white;
+}
+.kolchi1{
+    background-color: black;
+    height: 80px;
+    width: 7%;
+    margin: 22px 0px 0px 9px;
+    font-size: 70px;
+    color: white;
+}
+.kolchi2{
+    background-color: black;
+    height: 80px;
+    width: 7%;
+    margin: 22px 0px 0px 9px;
+    font-size: 70px;
+    color: white;
+}
+.kolchi3{
+    background-color: black;
+    height: 80px;
+    width: 7%;
+    margin: 22px 0px 0px 9px;
+    font-size: 70px;
+    color: white;
+}
